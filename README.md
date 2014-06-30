@@ -1,6 +1,6 @@
 
 
-Eventer Web App	{#welcome}
+Eventer Web App
 =====================
 
 
