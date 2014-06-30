@@ -1,6 +1,6 @@
 
 
-Eventer Web App
+Eventer
 =====================
 
 
